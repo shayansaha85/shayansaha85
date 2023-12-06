@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shayan
+- 👋 Hi, I’m Shayan. Fan of Tommy Vercetti
 - 👀 I’m interested in building solutions for hectic tasks
 - 🌱 I’m currently learning DevOps & SRE
 - 📫 For reaching out drop email: shayan851997@gmail.com
