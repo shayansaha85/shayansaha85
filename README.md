@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning DevOps & SRE
 - 📫 For reaching out drop email: shayan851997@gmail.com
 
-### Connect with me
+## Say Hi 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayansaha85)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shayansaha85)
+[![X](https://img.shields.io/badge/X-blue?style=flat-square&logo=x&logoColor=white)](https://example.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shayansaha85)
