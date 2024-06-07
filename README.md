@@ -5,6 +5,6 @@
 
 ## Say Hi 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayansaha85)
-[![X](https://img.shields.io/badge/X-blue?style=flat-square&logo=x&logoColor=white)](https://example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shayansaha85)
+[![ ](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayansaha85)
+[![ ](https://img.shields.io/badge/X-blue?style=flat-square&logo=x&logoColor=white)](https://example.com)
+[![ ](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shayansaha85)
