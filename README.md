@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shayan. Fan of Tommy Vercetti
 - 👀 I’m interested in building solutions for hectic tasks
-- 🌱 I’m currently learning DevOps & SRE
+- 🧑🏻‍💻 I’m currently working in DevOps & SRE domain
 - 📫 For reaching out drop email: shayan851997@gmail.com
 
 ## Say Hi 
