@@ -3,8 +3,12 @@
 - 🧑🏻‍💻 I’m currently working in DevOps & SRE domain
 - 📫 For reaching out drop email: shayan851997@gmail.com
 
-## Say Hi 
 
-[![ ](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayansaha85) <br>
-[![ ](https://img.shields.io/badge/X-blue?style=flat-square&logo=x&logoColor=white)](https://example.com) <br>
+  
+# Connect with Me!
 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/shayansaha85) [LinkedIn](https://www.linkedin.com/in/shayansaha85)
+
+[![X](https://upload.wikimedia.org/wikipedia/en/6/60/X_Logo.svg)](https://twitter.com/shayansaha85) [X](https://twitter.com/shayansaha85)
+
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@shayansaha85) [YouTube](https://www.youtube.com/@shayansaha85)
