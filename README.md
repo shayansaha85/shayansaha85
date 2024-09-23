@@ -7,6 +7,6 @@
   
 # Connect with Me!
 
-Linkedin : [LinkedIn](https://www.linkedin.com/in/shayansaha85)
-X : [X](https://twitter.com/shayansaha85)
+Linkedin : [LinkedIn](https://www.linkedin.com/in/shayansaha85) <br>
+X/Twitter : [X](https://twitter.com/shayansaha85) <br>
 YouTube : [YouTube](https://www.youtube.com/@shayansaha85)
