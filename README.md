@@ -1,6 +1,8 @@
 # Shayan Saha - Software Engineer, SRE
 
 [![LinkedIn](https://img.icons8.com/?size=25&id=13930&format=png&color=000000)](https://linkedin.com/in/shayansaha85) [![GitHub](https://img.icons8.com/?size=25&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/shayansaha85) [![Instagram](https://img.icons8.com/?size=25&id=Xy10Jcu1L2Su&format=png&color=000000)](https://instagram.com/shayansaha85) [![Facebook](https://img.icons8.com/?size=25&id=uLWV5A9vXIPu&format=png&color=000000)](https://www.facebook.com/shayansaha85page/) [![BlueSky](https://img.icons8.com/?size=25&id=3ovMFy5JDSWq&format=png&color=000000)](https://bsky.app/profile/shayandev.bsky.social) [![website](https://img.icons8.com/?size=25&id=63807&format=png&color=000000)](https://brewnok.com)
+<br>
+📧 shayansaha.con@gmail.com, shayan.sayhi@gmail.com, shayan851997@gmail.com
 
 ---
 
@@ -13,11 +15,11 @@ I am a Software Engineer with expertise in **Site Reliability Engineering (SRE)*
 ## Education
 
 **National Institute of Technology Agartala**  
-*Bachelor of Technology (Civil Engineering)* | GPA: 7.8 | Graduated 2020
+🎓 *Bachelor of Technology (Civil Engineering)* | GPA: 7.8 | Graduated 2020
 
 **Tripura Board of Secondary Education**  
-*Higher Secondary (12th)* | Percentage: 76.8% | Passed 2016  
-*Secondary / Madhyamik (10th)* | Percentage: 86.43% | Passed 2014
+🏫 *Higher Secondary (12th)* | Percentage: 76.8% | Passed 2016  
+🏫 *Secondary / Madhyamik (10th)* | Percentage: 86.43% | Passed 2014
 
 ---
 
@@ -39,30 +41,30 @@ I am a Software Engineer with expertise in **Site Reliability Engineering (SRE)*
 ### Software Engineer (SRE)  
 **Tata Consultancy Services** | August 2024 – Present
 
-- Configured infrastructure monitoring agents for 90% of the hosts across 96 critical business applications, improving operational visibility.
-- Configured custom visualizations within **New Relic**’s analytics suite for 96 key applications, enhancing team efficiency and access to performance data.
-- Set up Synthetic monitoring for 150+ critical business scenarios, reducing downtime by 90% and improving system reliability.
-- Developed custom Python-based agents for monitoring API metrics in **New Relic**, enabling granular performance insights.
-- Designed and implemented end-to-end automation tools, reducing manual effort by 95% and significantly increasing team productivity.
+1️⃣ Configured infrastructure monitoring agents for 90% of the hosts across 96 critical business applications, improving operational visibility.
+2️⃣ Configured custom visualizations within **New Relic**’s analytics suite for 96 key applications, enhancing team efficiency and access to performance data.
+3️⃣ Set up Synthetic monitoring for 150+ critical business scenarios, reducing downtime by 90% and improving system reliability.
+4️⃣ Developed custom Python-based agents for monitoring API metrics in **New Relic**, enabling granular performance insights.
+5️⃣ Designed and implemented end-to-end automation tools, reducing manual effort by 95% and significantly increasing team productivity.
 
 ### Analyst Programmer  
 **Wipro Technologies** | September 2020 – July 2024
 
-- Led scalability testing for the Login and Money Transfer System at **Charles Schwab**, improving system performance and stability by 40%.
-- Executed Chaos Engineering experiments using Python for Charles Schwab systems, mitigating vulnerabilities and improving system robustness by 30%.
-- Implemented observability solutions using **New Relic** for 150+ critical applications at **Hewlett Packard Enterprise (HPE)**, reducing downtime by 93%.
-- Tuned infrastructure agents for 2000+ on-prem hosts at HPE, ensuring visibility across the enterprise.
-- Developed Synthetic scripts for 329 business-critical scenarios at HPE, reducing downtime by 85%.
-- Led the design and deployment of a Global Command Center, unifying monitoring tools and processes for 100+ applications.
-- Contributed to performance engineering for the **On-Prem to Cloud migration** of 78 applications at **Enbridge**, reducing system latency by 25%.
+1️⃣ Led scalability testing for the Login and Money Transfer System at **Charles Schwab**, improving system performance and stability by 40%.
+2️⃣ Executed Chaos Engineering experiments using Python for Charles Schwab systems, mitigating vulnerabilities and improving system robustness by 30%.
+3️⃣ Implemented observability solutions using **New Relic** for 150+ critical applications at **Hewlett Packard Enterprise (HPE)**, reducing downtime by 93%.
+4️⃣ Tuned infrastructure agents for 2000+ on-prem hosts at HPE, ensuring visibility across the enterprise.
+5️⃣ Developed Synthetic scripts for 329 business-critical scenarios at HPE, reducing downtime by 85%.
+6️⃣ Led the design and deployment of a Global Command Center, unifying monitoring tools and processes for 100+ applications.
+7️⃣ Contributed to performance engineering for the **On-Prem to Cloud migration** of 78 applications at **Enbridge**, reducing system latency by 25%.
 
 ---
 
 ## Certifications
 
-- **Full-Stack Observability Practitioner** – New Relic
-- **Gremlin Chaos Engineering Practitioner** – Gremlin
-- **Gremlin Chaos Engineering Professional** – Gremlin
+📊 **Full-Stack Observability Practitioner** – New Relic
+📊 **Gremlin Chaos Engineering Practitioner** – Gremlin
+🐒 **Gremlin Chaos Engineering Professional** – Gremlin
 
 ---
 
