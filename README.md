@@ -6,6 +6,7 @@
 | GitHub              | [github.com/shayansaha85](https://github.com/shayansaha85)        |
 | Email               | shayansaha.con@gmail.com, shayan.sayhi@gmail.com, shayan851997@gmail.com |
 
+![LinkedIn](https://img.icons8.com/?size=20&id=13930&format=png&color=000000) ![GitHub](https://img.icons8.com/?size=20&id=AZOZNnY73haj&format=png&color=000000)
 
 ---
 
