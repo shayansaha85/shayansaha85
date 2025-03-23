@@ -1,6 +1,6 @@
 # Shayan Saha - Software Engineer, SRE
 
-| Contact Information | Details                                                           |
+| **Contact Information** | **Details**                                                           |
 |---------------------|-------------------------------------------------------------------|
 | LinkedIn            | [linkedin.com/in/shayansaha85](https://linkedin.com/in/shayansaha85) |
 | GitHub              | [github.com/shayansaha85](https://github.com/shayansaha85)        |
