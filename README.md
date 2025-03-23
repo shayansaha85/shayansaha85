@@ -1,4 +1,4 @@
-# Shayan Saha - Software Engineer (SRE)
+# Shayan Saha - Software Engineer, SRE
 
 [LinkedIn](https://linkedin.com/in/shayansaha85) | [GitHub](https://github.com/shayansaha85) | Email: shayansaha.con@gmail.com | Cell: (+91) 9774162637
 
