@@ -46,7 +46,7 @@ I am a Software Engineer with expertise in **Site Reliability Engineering (SRE)*
 3️⃣ Set up Synthetic monitoring for 150+ critical business scenarios, reducing downtime by 90% and improving system reliability.<br>
 4️⃣ Developed custom Python-based agents for monitoring API metrics in **New Relic**, enabling granular performance insights.<br>
 5️⃣ Designed and implemented end-to-end automation tools, reducing manual effort by 95% and significantly increasing team productivity.<br>
-<br>
+
 ### Analyst Programmer  
 **Wipro Technologies** | September 2020 – July 2024
 
@@ -57,14 +57,14 @@ I am a Software Engineer with expertise in **Site Reliability Engineering (SRE)*
 5️⃣ Developed Synthetic scripts for 329 business-critical scenarios at HPE, reducing downtime by 85%.<br>
 6️⃣ Led the design and deployment of a Global Command Center, unifying monitoring tools and processes for 100+ applications.<br>
 7️⃣ Contributed to performance engineering for the **On-Prem to Cloud migration** of 78 applications at **Enbridge**, reducing system latency by 25%.<br>
-<br>
+
 ---
 
 ## Certifications
 
-📊 **Full-Stack Observability Practitioner** – New Relic
-📊 **Gremlin Chaos Engineering Practitioner** – Gremlin
-🐒 **Gremlin Chaos Engineering Professional** – Gremlin
+📊 **Full-Stack Observability Practitioner** – New Relic <br>
+📊 **Gremlin Chaos Engineering Practitioner** – Gremlin <br>
+🐒 **Gremlin Chaos Engineering Professional** – Gremlin <br>
 
 ---
 
