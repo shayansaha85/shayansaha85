@@ -25,7 +25,7 @@ I am a Software Engineer with expertise in **Site Reliability Engineering (SRE)*
 
 ## Skills Summary
 
-- **Languages:** Python, JavaScript, Core Java
+![coding](https://img.icons8.com/?size=25&id=BtGEMRDEvxUr&format=png&color=000000) **Languages:** Python, JavaScript, Core Java
 - **Web Technologies:** Flask, Express, NodeJS
 - **Data Science Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, ScikitLearn, PyTorch, TensorFlow
 - **APM Tools:** New Relic, Thousand Eyes
