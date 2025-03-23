@@ -1,8 +1,9 @@
 # Shayan Saha - Software Engineer, SRE
 
-**![LinkedIn Profile](https://img.icons8.com/?size=20&id=13930&format=png&color=000000) [linkedin.com/in/shayansaha85](https://linkedin.com/in/shayansaha85)** <br>
-**GitHub: [github.com/shayansaha85](https://github.com/shayansaha85)** <br>
-**Email: shayansaha.con@gmail.com | shayan.sayhi@gmail.com | shayan851997@gmail.com** <br>
+| LinkedIn | [linkedin.com/in/shayansaha85](https://linkedin.com/in/shayansaha85) |
+| GitHub   | [github.com/shayansaha85](https://github.com/shayansaha85)            |
+| Email    | shayansaha.con@gmail.com, shayan.sayhi@gmail.com, shayan851997@gmail.com |
+
 
 ---
 
