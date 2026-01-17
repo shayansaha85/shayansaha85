@@ -1,6 +1,6 @@
 # Shayan Saha - Software Engineer, SRE
 
-[![LinkedIn](https://img.icons8.com/?size=25&id=13930&format=png&color=000000)](https://linkedin.com/in/shayansaha85) [![GitHub](https://img.icons8.com/?size=25&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/shayansaha85) [![BlueSky](https://img.icons8.com/?size=25&id=3ovMFy5JDSWq&format=png&color=000000)](https://bsky.app/profile/shayandev.bsky.social)
+[![LinkedIn](https://img.icons8.com/?size=25&id=13930&format=png&color=000000)](https://linkedin.com/in/shayansaha85) [![GitHub](https://img.icons8.com/?size=25&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/shayansaha85)
 <br>
 📧 shayansaha.con@gmail.com / shayan.sayhi@gmail.com / shayan851997@gmail.com
 
