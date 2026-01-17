@@ -74,4 +74,4 @@ Feel free to reach out through my LinkedIn or email for further inquiries or pro
 
 ---
 
-*Last updated: March 2025*
+*Last updated: January, 2026*
