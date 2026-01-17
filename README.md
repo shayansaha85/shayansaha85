@@ -8,7 +8,8 @@
 
 ## Summary
 
-I am a Software Engineer with expertise in **Site Reliability Engineering (SRE)** and performance optimization. I have experience in developing and implementing observability solutions, automation tools, and scalability testing for critical business applications. My skill set includes proficiency in **Python**, **JavaScript**, and various data science frameworks, along with strong knowledge of **DevOps tools** and **observability platforms** like **New Relic** and **Gremlin** (chaos engineering tool). I am dedicated to improving system reliability, reducing downtime, and enhancing operational efficiency.
+Software Engineer with a strong foundation in Site Reliability Engineering (SRE), specializing in observability for large-scale, business-critical applications. Experienced in designing, implementing, and operating end-to-end observability solutions that provide deep visibility into system performance, reliability, and user experience. Proven ability to optimize application health through metrics, logs, traces, and proactive alerting, enabling faster incident detection and resolution. Skilled in building custom automation and reliability tooling, conducting scalability and resilience testing, and applying DevOps best practices to improve operational efficiency. Proficient in Python and JavaScript, with hands-on experience leveraging observability platforms such as New Relic, Datadog, and ThousandEyes, as well as chaos engineering tools including Chaos Monkey and Gremlin. Demonstrated success in improving system resilience, reducing service disruptions, and supporting data-driven operational decisions.
+
 
 ---
 
@@ -25,12 +26,11 @@ I am a Software Engineer with expertise in **Site Reliability Engineering (SRE)*
 
 ## Skills Summary
 
-- **Languages:** Python, JavaScript, Core Java
+- **Languages:** Python, JavaScript
 - **Web Technologies:** Flask, Express, NodeJS
-- **Data Science Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, ScikitLearn, PyTorch, TensorFlow
-- **APM Tools:** New Relic, Thousand Eyes
-- **DevOps Tools:** Jenkins, Bamboo, GitLab, GitHub, Git Version Control, Docker
-- **Databases:** MySQL, MongoDB, SQLite
+- **APM Tools:** New Relic, Thousand Eyes, Datadog
+- **DevOps Tools:** Jenkins, Bamboo, GitLab, GitHub, Git Version Control, Docker, Terraform, Ansible
+- **Databases:** MySQL, MongoDB
 - **Performance Testing Tools:** LoadRunner, JMeter, Blazemeter
 - **Tools:** Excel, PowerPoint, Jira, VSCode
 
