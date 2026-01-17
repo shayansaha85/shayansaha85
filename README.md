@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.icons8.com/?size=25&id=13930&format=png&color=000000)](https://linkedin.com/in/shayansaha85) [![GitHub](https://img.icons8.com/?size=25&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/shayansaha85)
 <br>
-📧 shayansaha.con@gmail.com
-📧 shayan.sayhi@gmail.com
-📧 shayan851997@gmail.com
+shayansaha.con@gmail.com </br>
+shayan.sayhi@gmail.com </br>
+shayan851997@gmail.com </br>
 
 ---
 
