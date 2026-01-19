@@ -1,0 +1,494 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Shayan - CV</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Resume of Shayan Saha, Software Engineer and Site Reliability Engineer specializing in observability and reliability for large-scale systems." />
+  <style>
+    :root {
+      --bg: #f7f7f8;
+      --card-bg: #ffffff;
+      --text-main: #111111;
+      --text-subtle: #555555;
+      --accent: #2563eb;
+      --border: #e5e5e7;
+      --muted: #9ca3af;
+      --font-main: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      --radius: 10px;
+      --shadow-soft: 0 10px 30px rgba(15, 23, 42, 0.06);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 32px 16px 40px;
+      font-family: var(--font-main);
+      color: var(--text-main);
+      background: radial-gradient(circle at top left, #eef2ff 0, #f7f7f8 40%, #f7f7f8 100%);
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .page {
+      max-width: 1200px;
+      margin: 0 auto;
+      background: transparent;
+    }
+
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: center;
+      margin-bottom: 24px;
+    }
+
+    .identity h1 {
+      font-size: 1.9rem;
+      letter-spacing: 0.03em;
+      margin: 0 0 4px;
+    }
+
+    .identity p {
+      margin: 0;
+      color: var(--text-subtle);
+      font-size: 0.95rem;
+    }
+
+    .meta {
+      text-align: right;
+      font-size: 0.9rem;
+    }
+
+    .meta a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .meta a:hover {
+      text-decoration: underline;
+    }
+
+    .chips {
+      display: inline-flex;
+      gap: 8px;
+      margin-top: 6px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .chip {
+      padding: 2px 8px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.75rem;
+    }
+
+    main {
+      display: grid;
+      grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+      gap: 20px;
+    }
+
+    @media (max-width: 768px) {
+      body {
+        padding: 20px 14px 28px;
+      }
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .meta {
+        text-align: left;
+      }
+      main {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    section {
+      margin-bottom: 18px;
+    }
+
+    h2 {
+      font-size: 0.95rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      margin: 0 0 10px;
+      color: var(--muted);
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      border: 1px solid rgba(148, 163, 184, 0.25);
+      padding: 18px 18px 16px;
+      box-shadow: var(--shadow-soft);
+    }
+
+    .card + .card {
+      margin-top: 10px;
+    }
+
+    .summary {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      color: var(--text-subtle);
+    }
+
+    .summary strong {
+      color: var(--text-main);
+      font-weight: 600;
+    }
+
+    .list {
+      list-style: none;
+      padding: 0;
+      margin-left: 30px;
+    }
+
+    .list li {
+      margin-bottom: 6px;
+      font-size: 0.9rem;
+      color: var(--text-subtle);
+      line-height: 1.5;
+    }
+
+    .list li::before {
+      content: "•";
+      color: var(--accent);
+      display: inline-block;
+      width: 1em;
+      margin-left: -1em;
+    }
+
+    .pill-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .pill {
+      font-size: 0.8rem;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: #f3f4f6;
+      border: 1px solid #e5e7eb;
+      color: #374151;
+      white-space: nowrap;
+    }
+
+    .job {
+      margin-bottom: 14px;
+    }
+
+    .job-header {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: baseline;
+      margin-bottom: 4px;
+    }
+
+    .job-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+
+    .job-company {
+      font-size: 0.9rem;
+      color: var(--text-subtle);
+    }
+
+    .job-dates {
+      font-size: 0.8rem;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+
+    .edu-item {
+      margin-bottom: 10px;
+      font-size: 0.9rem;
+    }
+
+    .edu-main {
+      font-weight: 600;
+    }
+
+    .edu-sub {
+      color: var(--text-subtle);
+      font-size: 0.85rem;
+    }
+
+    .edu-meta {
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .cert {
+      font-size: 0.9rem;
+      margin-bottom: 6px;
+    }
+
+    .cert span {
+      color: var(--text-subtle);
+    }
+
+    .footer-note {
+      margin-top: 16px;
+      font-size: 0.75rem;
+      color: var(--muted);
+      text-align: right;
+    }
+
+    a.icon-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.85rem;
+      color: var(--accent);
+      text-decoration: none;
+      margin-left: 4px;
+    }
+
+    a.icon-link:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <div class="identity">
+        <h1>Shayan Saha</h1>
+        <p>Software Engineer &bull; Site Reliability Engineer (SRE)</p>
+      </div>
+      <div class="meta">
+        <div>
+          <a class="icon-link" href="mailto:shayansaha.con@gmail.com">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+            <span>shayansaha.con@gmail.com</span>
+          </a>
+        </div>
+        <div style="margin-top:4px;">
+          <a class="icon-link" href="tel:+919774162637">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+            <span>(+91) - 9774162637</span>
+          </a>
+          <a class="icon-link" href="https://wa.me/919774162637" target="_blank" rel="noreferrer">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.488"/></svg>
+            <span>WhatsApp</span>
+          </a>
+        </div>
+        <div style="margin-top:4px;">
+          <a class="icon-link" href="https://linkedin.com/in/shayansaha85" target="_blank" rel="noreferrer">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+            <span>LinkedIn</span>
+          </a>
+          <a class="icon-link" href="https://github.com/shayansaha85" target="_blank" rel="noreferrer">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+            <span>GitHub</span>
+          </a>
+        </div>
+        
+        <div class="chips">
+          <span class="chip">Kolkata · India</span>
+          <span class="chip">Open to opportunities</span>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <!-- Left column -->
+      <div>
+        <section>
+          <h2>Summary</h2>
+          <div class="card summary">
+            Software Engineer with a strong foundation in Site Reliability Engineering (SRE), specializing in observability for large-scale, business-critical applications. Experienced in designing, implementing, and operating end-to-end observability solutions that provide deep visibility into system performance, reliability, and user experience. Proven ability to optimize application health through metrics, logs, traces, and proactive alerting, enabling faster incident detection and resolution.
+            <br><br>
+            Skilled in building custom automation and reliability tooling, conducting scalability and resilience testing, and applying DevOps best practices to improve operational efficiency. Proficient in Python and JavaScript, with hands-on experience leveraging observability platforms such as New Relic, Datadog, and ThousandEyes, as well as chaos engineering tools including Chaos Monkey and Gremlin. Demonstrated success in improving system resilience, reducing service disruptions, and supporting data-driven operational decisions.
+          </div>
+        </section>
+
+        <section>
+          <h2>Experience</h2>
+          <div class="card">
+            <div class="job">
+              <div class="job-header">
+                <div>
+                  <div class="job-title">Software Engineer (SRE)</div>
+                  <div class="job-company">Tata Consultancy Services</div>
+                </div>
+                <div class="job-dates">Aug 2024 &ndash; Present</div>
+              </div>
+              <ul class="list">
+                <li>Configured infrastructure monitoring for 90% of hosts across 96 critical business applications, significantly improving operational visibility.</li>
+                <li>Built custom New Relic analytics dashboards for 96 key applications, improving access to performance data and team efficiency.</li>
+                <li>Implemented synthetic monitoring for 150+ business scenarios, reducing downtime by 90% and strengthening reliability.</li>
+                <li>Developed Python-based agents to stream granular API performance metrics into New Relic.</li>
+                <li>Designed and shipped end-to-end automation tools that cut manual operational effort by 95%.</li>
+              </ul>
+            </div>
+            <br>
+            <div class="job">
+              <div class="job-header">
+                <div>
+                  <div class="job-title">Analyst Programmer</div>
+                  <div class="job-company">Wipro Technologies</div>
+                </div>
+                <div class="job-dates">Sep 2020 &ndash; Jul 2024</div>
+              </div>
+              <ul class="list">
+                <li>Led scalability testing for Login and Money Transfer systems at Charles Schwab, improving performance and stability by 40%.</li>
+                <li>Executed Python-driven chaos experiments, improving robustness of Charles Schwab systems by 30%.</li>
+                <li>Implemented New Relic-based observability for 150+ critical HPE applications, cutting downtime by 93%.</li>
+                <li>Tuned agents for 2000+ on-prem hosts at HPE to ensure full-stack infrastructure visibility.</li>
+                <li>Developed synthetic scripts for 329 HPE business-critical scenarios, reducing downtime by 85%.</li>
+                <li>Led design and rollout of a Global Command Center to unify monitoring tools and processes for 100+ applications.</li>
+                <li>Contributed to performance engineering for the on-prem to cloud migration of 78 Enbridge applications, reducing latency by 25%.</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <!-- Right column -->
+      <div>
+        <section>
+          <h2>Skills</h2>
+          <div class="card">
+            <div style="margin-bottom:10px;">
+              <div class="edu-main" style="margin-bottom:4px;">Programming Languages</div>
+              <div class="pill-row">
+                <span class="pill">Python</span>
+                <span class="pill">Golang</span>
+                <span class="pill">Rust</span>
+              </div>
+            </div>
+
+            <div style="margin-bottom:10px;">
+              <div class="edu-main" style="margin-bottom:4px;">Web &amp; Backend</div>
+              <div class="pill-row">
+                <span class="pill">Flask</span>
+                <span class="pill">Express</span>
+                <span class="pill">Node.js</span>
+                <span class="pill">HTML</span>
+                <span class="pill">CSS</span>
+                <span class="pill">JavaScript</span>
+
+              </div>
+            </div>
+
+            <div style="margin-bottom:10px;">
+              <div class="edu-main" style="margin-bottom:4px;">Observability &amp; APM</div>
+              <div class="pill-row">
+                <span class="pill">New Relic</span>
+                <span class="pill">Datadog</span>
+                <span class="pill">ThousandEyes</span>
+              </div>
+            </div>
+
+            <div style="margin-bottom:10px;">
+              <div class="edu-main" style="margin-bottom:4px;">DevOps</div>
+              <div class="pill-row">
+                <span class="pill">Jenkins</span>
+                <span class="pill">Bamboo</span>
+                <span class="pill">GitLab</span>
+                <span class="pill">GitHub</span>
+                <span class="pill">Git</span>
+                <span class="pill">Docker</span>
+                <span class="pill">Terraform</span>
+                <span class="pill">Ansible</span>
+              </div>
+            </div>
+
+            <div style="margin-bottom:10px;">
+              <div class="edu-main" style="margin-bottom:4px;">Databases</div>
+              <div class="pill-row">
+                <span class="pill">MySQL</span>
+                <span class="pill">MongoDB</span>
+              </div>
+            </div>
+
+            <div style="margin-bottom:6px;">
+              <div class="edu-main" style="margin-bottom:4px;">Performance Testing</div>
+              <div class="pill-row">
+                <span class="pill">LoadRunner</span>
+                <span class="pill">JMeter</span>
+                <span class="pill">BlazeMeter</span>
+              </div>
+            </div>
+
+            <div style="margin-bottom:6px;">
+              <div class="edu-main" style="margin-bottom:4px;">Software Proficiencies</div>
+              <div class="pill-row">
+                <span class="pill">Microsoft Word / Google Docs</span>
+                <span class="pill">Microsoft Excel / Google Sheets</span>
+                <span class="pill">Microsoft Powerpoint / Google Slide</span>
+                <span class="pill">Jira</span>
+                <span class="pill">Confluence</span>
+                <span class="pill">Notion</span>
+                <span class="pill">Visual Studio Code</span>
+                <span class="pill">Visual Studio</span>
+                <span class="pill">PyCharm</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <h2>Education</h2>
+          <div class="card">
+            <div class="edu-item">
+              <div class="edu-main">National Institute of Technology Agartala</div>
+              <div class="edu-sub">Bachelor of Technology · Civil Engineering</div>
+              <div class="edu-meta">GPA: 7.8 · Graduated 2020</div>
+            </div>
+            <div class="edu-item">
+              <div class="edu-main">Tripura Board of Secondary Education</div>
+              <div class="edu-sub">Higher Secondary (12th)</div>
+              <div class="edu-meta">Percentage: 76.8% · 2016</div>
+            </div>
+            <div class="edu-item">
+              <div class="edu-main">Tripura Board of Secondary Education</div>
+              <div class="edu-sub">Secondary / Madhyamik (10th)</div>
+              <div class="edu-meta">Percentage: 86.43% · 2014</div>
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <h2>Certifications</h2>
+          <div class="card">
+            <div class="cert">Full-Stack Observability Practitioner <span>· New Relic</span> <a target="_blank" href="https://www.credential.net/151cd0ac-4302-401f-8b85-cd2f4e26d80a#acc.0QDeYXyg">view</a></div>
+            <div class="cert">Chaos Engineering Practitioner <span>· Gremlin</span> <a target="_blank" href="https://www.credential.net/92fbe48d-55db-4003-9b7e-30216db7097b#acc.1VlaBF86">view</a></div>
+            <div class="cert">Chaos Engineering Professional <span>· Gremlin</span> <a target="_blank" href="https://www.credential.net/5b17c3fb-ae56-4541-9e3d-75670eea7979#acc.H5UVWcCg">view</a></div>
+          </div>
+        </section>
+
+        <section>
+          <h2>Contact</h2>
+          <div class="card">
+            <p style="margin:0 0 6px;font-size:0.9rem;color:var(--text-subtle);">
+              Open to conversations around SRE, observability, reliability engineering, and performance engineering.
+            </p>
+            <p style="margin:0;font-size:0.9rem;">
+              Best way to reach out: <a href="mailto:shayansaha.con@gmail.com">shayansaha.con@gmail.com</a> or via
+              <a href="https://linkedin.com/in/shayansaha85" target="_blank" rel="noreferrer">LinkedIn</a>.
+            </p>
+          </div>
+        </section>
+
+        <div class="footer-note">
+          Last updated: January 2026
+        </div>
+      </div>
+    </main>
+  </div>
+</body>
+</html>
