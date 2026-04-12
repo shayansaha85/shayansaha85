@@ -1,77 +1,63 @@
-# Shayan Saha - Software Engineer, SRE
+Shayan Saha
 
-[![LinkedIn](https://img.icons8.com/?size=25&id=13930&format=png&color=000000)](https://linkedin.com/in/shayansaha85) [![GitHub](https://img.icons8.com/?size=25&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/shayansaha85)
-<br>Email : shayansaha.con@gmail.com
-<br>Website : https://shayansaha85.github.io/shayansaha85/ | https://bit.ly/hishayan
+(+91) 7980919179  
+shayansaha.con@gmail.com  
+[LinkedIn.com/in/shayansaha85](https://www.linkedin.com/in/shayansaha85)  
+[GitHub.com/shayansaha85](https://www.github.com/shayansaha85)
 
----
+**PROFESSIONAL SUMMARY**
 
-## Summary
+Site Reliability Engineer with 5+ years of experience in **Observability, Automation, Performance Testing, and Python**, focused on improving system reliability and scalability. Expertise in building **Python-driven automation** and **CI/CD-integrated validation pipelines**, with strong hands-on experience in **New Relic and production monitoring.**
 
-Software Engineer with a strong foundation in Site Reliability Engineering (SRE), specializing in observability for large-scale, business-critical applications. Experienced in designing, implementing, and operating end-to-end observability solutions that provide deep visibility into system performance, reliability, and user experience. Proven ability to optimize application health through metrics, logs, traces, and proactive alerting, enabling faster incident detection and resolution. Skilled in building custom automation and reliability tooling, conducting scalability and resilience testing, and applying DevOps best practices to improve operational efficiency. Proficient in Python and JavaScript, with hands-on experience leveraging observability platforms such as New Relic, Datadog, and ThousandEyes, as well as chaos engineering tools including Chaos Monkey and Gremlin. Demonstrated success in improving system resilience, reducing service disruptions, and supporting data-driven operational decisions.
+Proven impact in **reducing downtime by up to 93%** and **automating 95% of operational workflows**. Skilled in incident management, system resilience, chaos engineering, and DevOps practices across distributed systems.
 
+**TECHNICAL SKILLS**
 
----
+* **Programming Languages	:** 	Python, JavaScript  
+* **Automation & Testing		:** 	Selenium (Python), Playwright, API Automation, Postman, Pytest  
+* **Performance Testing		:** 	JMeter, LoadRunner, BlazeMeter  
+* **Observability			:** 	New Relic, Datadog, ThousandEyes  
+* **DevOps & CI/CD			:** 	Jenkins, GitHub, GitLab, Docker, Terraform, Ansible  
+* **Backend			:** 	FastAPI, Flask, Node.js  
+* **Databases			:** 	MySQL, MongoDB  
+* **Other				:** 	Linux, Git, Jira
 
-## Education
+**PROFESSIONAL EXPERIENCE**
 
-**National Institute of Technology Agartala**  
-🎓 *Bachelor of Technology (Civil Engineering)* | GPA: 7.8 | Graduated 2020
+**Software Engineer (SRE) @ Tata Consultancy Services							Aug 2024 – Present**
 
-**Tripura Board of Secondary Education**  
-🏫 *Higher Secondary (12th)* | Percentage: 76.8% | Passed 2016  
-🏫 *Secondary / Madhyamik (10th)* | Percentage: 86.43% | Passed 2014
+* Implemented **end-to-end observability solutions** for 96 applications using New Relic.   
+* Automated monitoring setup across **90% of infrastructure**, improving scalability and consistency.   
+* Developed **150+ automated synthetic test scripts**, reducing downtime by **90%**.   
+* Built **Python-based automation tools** reducing manual effort by **95%**.   
+* Created **API monitoring and validation automation pipelines**.   
+* Automated **infra-level chaos engineering experiments** across Linux, AIX, and Windows systems. 
 
----
+**Analyst Programmer @ Wipro Technologies								Sep 2020 – Jul 2024**
 
-## Skills Summary
+* Led **automated performance testing** using JMeter & LoadRunner, improving stability by **40%**.   
+* Built **automation frameworks for testing, reporting, and analysis**.   
+* Implemented observability for **150+ applications**, reducing downtime by **93%**.   
+* Automated monitoring setup across **2000+ hosts**.   
+* Developed **300+ synthetic automation scripts** for real-user simulation.   
+* Automated **API testing workflows** using Postman and Python.   
+* Integrated testing and monitoring into **CI/CD pipelines (Jenkins)**. 
 
-- **Languages:** Python, JavaScript
-- **Web Technologies:** Flask, Express, NodeJS
-- **APM Tools:** New Relic, Thousand Eyes, Datadog
-- **DevOps Tools:** Jenkins, Bamboo, GitLab, GitHub, Git Version Control, Docker, Terraform, Ansible
-- **Databases:** MySQL, MongoDB
-- **Performance Testing Tools:** LoadRunner, JMeter, Blazemeter
-- **Tools:** Excel, PowerPoint, Jira, VSCode
+**PROJECTS**
 
----
+* **Auto Alert Enabler/Disabler** **\-** Python tool for automated alert management (New Relic)   
+* **Chaos \+ Gen AI \-** AI-driven chaos experiment analysis for MongoDB   
+* **LoadRunner Log Scraper** **\-** Automated performance log analysis tool   
+* **Infra-Chaos Studio** **\-** Web-based chaos engineering platform   
+* **Alert Dumper** **\-** A utility which scrapes New Relic alerts using NerdGraph API (GraphQL), and creates dump of all the alerts
 
-## Work Experience
+**CERTIFICATIONS**
 
-### Software Engineer (SRE)  
-**Tata Consultancy Services** | August 2024 – Present
+* **Full-Stack Observability Practitioner** – New Relic   
+* **Chaos Engineering Professional & Practitioner** – Gremlin  
+* **Advanced JMeter** 
 
-1️⃣ Configured infrastructure monitoring agents for 90% of the hosts across 96 critical business applications, improving operational visibility.<br>
-2️⃣ Configured custom visualizations within **New Relic**’s analytics suite for 96 key applications, enhancing team efficiency and access to performance data.<br>
-3️⃣ Set up Synthetic monitoring for 150+ critical business scenarios, reducing downtime by 90% and improving system reliability.<br>
-4️⃣ Developed custom Python-based agents for monitoring API metrics in **New Relic**, enabling granular performance insights.<br>
-5️⃣ Designed and implemented end-to-end automation tools, reducing manual effort by 95% and significantly increasing team productivity.<br>
+**HIGHEST EDUCATION QUALIFICATION**
 
-### Analyst Programmer  
-**Wipro Technologies** | September 2020 – July 2024
+* **NIT Agartala** | B.Tech (Civil Engineering) | Graduated 2020 | 7.8 CGPA
 
-1️⃣ Led scalability testing for the Login and Money Transfer System at **Charles Schwab**, improving system performance and stability by 40%.<br>
-2️⃣ Executed Chaos Engineering experiments using Python for Charles Schwab systems, mitigating vulnerabilities and improving system robustness by 30%.<br>
-3️⃣ Implemented observability solutions using **New Relic** for 150+ critical applications at **Hewlett Packard Enterprise (HPE)**, reducing downtime by 93%.<br>
-4️⃣ Tuned infrastructure agents for 2000+ on-prem hosts at HPE, ensuring visibility across the enterprise.<br>
-5️⃣ Developed Synthetic scripts for 329 business-critical scenarios at HPE, reducing downtime by 85%.<br>
-6️⃣ Led the design and deployment of a Global Command Center, unifying monitoring tools and processes for 100+ applications.<br>
-7️⃣ Contributed to performance engineering for the **On-Prem to Cloud migration** of 78 applications at **Enbridge**, reducing system latency by 25%.<br>
-
----
-
-## Certifications
-
-📊 **Full-Stack Observability Practitioner** – New Relic <br>
-📊 **Gremlin Chaos Engineering Practitioner** – Gremlin <br>
-🐒 **Gremlin Chaos Engineering Professional** – Gremlin <br>
-
----
-
-## Contact
-
-Feel free to reach out through my LinkedIn or email for further inquiries or project collaborations!
-
----
-
-*Last updated: January, 2026*
