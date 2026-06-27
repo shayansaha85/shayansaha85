@@ -24,8 +24,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
 
-- 🏢 &nbsp;Currently a **Software Engineer (SRE)** at **Tata Consultancy Services**
-- 🔭 &nbsp;Previously an **Analyst Programmer** at **Wipro Technologies** *(4 yrs)*
+
 - 📉 &nbsp;Achieved a **93% reduction** in incident-driven disruptions through intelligent automation
 - 🛠️ &nbsp;Building robust **Python-driven automation pipelines** & CI/CD workflows
 - 🧪 &nbsp;Certified in **Chaos Engineering** (Gremlin) & **Full-Stack Observability** (New Relic)
