@@ -2,12 +2,14 @@
 <!--                        HEADER & INTRODUCTION                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <a href="https://github.com/shayansaha85">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Shayan" alt="Typing SVG" />
-  </a>
 
-  [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shayansaha85)
+
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&duration=1000&pause=200&color=2581A9&background=FFFFFF&center=true&vCenter=true&width=300&lines=%F0%9F%91%8B+Hello+World;This+is+Shayan!" alt="Typing SVG" /></a>
+
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shayansaha85)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayansaha85)
 [![X / Twitter](https://img.shields.io/badge/-X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shayansaha85)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-3B82F6?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/shayandev.bsky.social)
