@@ -9,38 +9,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Shayan" alt="Typing SVG" />
   </a>
 
+[![Followers](https://img.shields.io/github/followers/shayansaha85?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117&logo=github)](https://github.com/shayansaha85?tab=followers)
 
-
-
-<br/>
-  
-  <a href="https://github.com/shayansaha85?tab=followers">
-    <img src="https://img.shields.io/github/followers/shayansaha85?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117&logo=github" alt="Followers" />
-  </a>
-
-<br/>
- 
-  <!-- Social Badges -->
-  <a href="https://linkedin.com/in/shayansaha85">
-    <img src="https://img.shields.io/badge/LinkedIn-shayansaha85-blue
-    " alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://twitter.com/shayansaha85">
-    <img src="https://img.shields.io/badge/X-shayansaha85-black
-    " alt="X / Twitter" />
-  </a>&nbsp;
-  <a href="https://bsky.app/profile/shayandev.bsky.social">
-    <img src="https://img.shields.io/badge/BlueSky-shayandev-blue" alt="Bluesky" />
-  </a>&nbsp;
-  <a href="https://www.reddit.com/user/shayansaha85">
-    <img src="https://img.shields.io/badge/Reddit-shayansaha85-red
-    " alt="Reddit" />
-  </a>
-
-</div>
-
-<br/>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shayansaha85-blue)](https://linkedin.com/in/shayansaha85)
+[![X / Twitter](https://img.shields.io/badge/X-shayansaha85-black)](https://twitter.com/shayansaha85)
+[![Bluesky](https://img.shields.io/badge/BlueSky-shayandev-blue)](https://bsky.app/profile/shayandev.bsky.social)
+[![Reddit](https://img.shields.io/badge/Reddit-shayansaha85-red)](https://www.reddit.com/user/shayansaha85)
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                             ABOUT ME                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
