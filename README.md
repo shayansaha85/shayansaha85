@@ -1,84 +1,151 @@
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        HEADER & INTRODUCTION                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-# **Shayan Saha**
+<div align="center">
 
-📞 **(+91)** 79809 19179  
-✉️ [shayansaha.con@gmail.com](mailto:shayansaha.con@gmail.com)  
-🔗 [LinkedIn/in/shayansaha85](https://www.linkedin.com/in/shayansaha85)  
-💻 [GitHub/shayansaha85](https://github.com/shayansaha85)
+  <!-- Animated Typing Header -->
+  <a href="https://github.com/shayansaha85">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Shayan" alt="Typing SVG" />
+  </a>
 
-***
 
-## **Professional Summary**
+  <!-- Tagline -->
+  <samp>
+    Automating • Observing • Scaling — Distributed Systems at Scale
+  </samp>
 
-Site Reliability Engineer with **5+ years of experience** in *Observability, Automation, Performance Testing,* and *Python Development*. Passionate about improving system reliability and scalability through **data-driven automation** and **CI/CD-integrated validation pipelines**.
+<br>
+  
+  <a href="https://github.com/shayansaha85?tab=followers">
+    <img src="https://img.shields.io/github/followers/shayansaha85?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117&logo=github" alt="Followers" />
+  </a>
 
-Expert in **New Relic-based monitoring**, incident response, and distributed system optimization. Known for achieving a **93% reduction in downtime** and **automating 95% of operational workflows**.
+<br/>
+ 
+  <!-- Social Badges -->
+  <a href="https://linkedin.com/in/shayansaha85">
+    <img src="https://img.shields.io/badge/-shayansaha85-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://twitter.com/shayansaha85">
+    <img src="https://img.shields.io/badge/-shayansaha85-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>&nbsp;
+  <a href="https://bsky.app/profile/shayandev.bsky.social">
+    <img src="https://img.shields.io/badge/-shayandev-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+  </a>&nbsp;
+  <a href="https://www.reddit.com/user/shayansaha85">
+    <img src="https://img.shields.io/badge/-shayansaha85-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
 
-***
+</div>
 
-## **Technical Skills**
+<br/>
 
-| Category | Tools & Technologies |
-|:--|:--|
-| **Programming Languages** | Python, JavaScript |
-| **Automation & Testing** | Selenium (Python), Playwright, API Automation, Postman, Pytest |
-| **Performance Testing** | JMeter, LoadRunner, BlazeMeter |
-| **Observability** | New Relic, Datadog, ThousandEyes |
-| **DevOps & CI/CD** | Jenkins, GitHub, GitLab, Docker, Terraform, Ansible |
-| **Backend Frameworks** | FastAPI, Flask, Node.js |
-| **Databases** | MySQL, MongoDB |
-| **Others** | Linux, Git, Jira |
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             ABOUT ME                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-***
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-## **Professional Experience**
+> **Site Reliability Engineer** with **5+ years of experience** architecting and scaling
+> Observability, AIOps, and DevOps solutions across distributed systems.
 
-### **Software Engineer (SRE)**  
-**Tata Consultancy Services** -  *Aug 2024 – Present*
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
 
-- Designed and implemented **end-to-end observability** for **96+ applications** using *New Relic*.  
-- Automated monitoring setup for **90% of infrastructure**, improving scalability and reliability.  
-- Built **Python-based tooling** to automate operational workflows, saving **95% manual effort**.  
-- Designed **synthetic monitoring suites (150+ scripts)**, cutting downtime by **90%**.  
-- Developed **API validation pipelines** integrated with *CI/CD systems*.  
-- Automated **chaos experiments** across Linux, AIX, and Windows systems.
+- 🏢 &nbsp;Currently a **Software Engineer (SRE)** at **Tata Consultancy Services**
+- 🔭 &nbsp;Previously an **Analyst Programmer** at **Wipro Technologies** *(4 yrs)*
+- 📉 &nbsp;Achieved a **93% reduction** in incident-driven disruptions through intelligent automation
+- 🛠️ &nbsp;Building robust **Python-driven automation pipelines** & CI/CD workflows
+- 🧪 &nbsp;Certified in **Chaos Engineering** (Gremlin) & **Full-Stack Observability** (New Relic)
+- 🎓 &nbsp;**B.Tech** from **NIT Agartala** *(2020)*
+- 🌱 &nbsp;Currently exploring **Go** and **Kubernetes at scale**
+- 📫 &nbsp;Reach me at **shayansaha.con@gmail.com**
 
-***
+<br clear="right"/>
 
-### **Analyst Programmer**  
-**Wipro Technologies** -  *Sep 2020 – Jul 2024*
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           TECH STACK                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-- Led **automated performance testing** using *JMeter* and *LoadRunner*, improving app stability by **40%**.  
-- Developed *custom automation frameworks* for testing, reporting, and analysis.  
-- Implemented observability for **150+ applications**, reducing downtime by **93%**.  
-- Automated monitoring setup across **2000+ hosts** using *Python and APIs*.  
-- Created **300+ synthetic test scripts** for real-user simulation and validation.  
-- Integrated **testing & monitoring** into *Jenkins-based CI/CD pipelines*.  
+## 🧰 &nbsp;Tech Stack
 
-***
+<table>
+  <tr>
+    <td align="" width="140"><b>🔭 Observability</b></td>
+    <td>Prometheus · Grafana · New Relic · Datadog · Zabbix</td>
+  </tr>
+  <tr>
+    <td align=""><b>⚙️ DevOps & IaC</b></td>
+    <td>Docker · Terraform · Ansible · Jenkins · GitHub Actions · GitLab</td>
+  </tr>
+  <tr>
+    <td align=""><b>💻 Languages</b></td>
+    <td>Python · JavaScript · Go · Bash</td>
+  </tr>
+  <tr>
+    <td align=""><b>🌐 Frameworks</b></td>
+    <td>FastAPI · Flask · Selenium</td>
+  </tr>
+  <tr>
+    <td align=""><b>🗃️ Databases</b></td>
+    <td>MongoDB · PostgreSQL · MySQL · SQLite</td>
+  </tr>
+  <tr>
+    <td align=""><b>🧪 Resilience</b></td>
+    <td>Gremlin · Chaos Toolkit · JMeter · LoadRunner</td>
+  </tr>
+</table>
 
-## **Projects**
+<br/>
 
-| Project | Description |
-|:--|:--|
-| **Auto Alert Enabler/Disabler** | Python tool for automated alert management in New Relic. |
-| **Chaos + Gen AI** | AI-driven chaos experiment analyzer for MongoDB clusters. |
-| **LoadRunner Log Scraper** | Automated performance log parser and analyzer. |
-| **Infra-Chaos Studio** | Web-based chaos engineering studio for multi-platform systems. |
-| **Alert Dumper** | NerdGraph API-based alert scraper to export and document New Relic alerts. |
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         CERTIFICATIONS                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-***
+## 🏅 &nbsp;Certifications
 
-## **Certifications**
+<div align="center">
 
-- 🟢 **Full-Stack Observability Practitioner** – *New Relic*  
-- 🔵 **Chaos Engineering Professional & Practitioner** – *Gremlin*  
-- ⚙️ **Advanced JMeter**  
+  <img src="https://img.shields.io/badge/Full--Stack_Observability_Practitioner-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic FSO" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Chaos_Engineering_Professional-27BF6B?style=for-the-badge&logo=gremlin&logoColor=white" alt="Gremlin Pro" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Chaos_Engineering_Practitioner-27BF6B?style=for-the-badge&logo=gremlin&logoColor=white" alt="Gremlin Practitioner" />
 
-***
+</div>
 
-## **Education**
+<br/>
 
-**National Institute of Technology (NIT) Agartala**  
-**B.Tech – Civil Engineering (2020)**  
-**CGPA:** 7.8 / 10  
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB STATS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+  <!-- Stats Card + Streak -->
+  <a href="https://github.com/shayansaha85">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shayansaha85&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Shayan's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/shayansaha85">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayansaha85&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/shayansaha85">
+    <img src="https://streak-stats.demolab.com?user=shayansaha85&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <a href="https://github.com/shayansaha85">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayansaha85&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=true" alt="Contribution Graph" width="95%" />
+  </a>
+
+</div>
+
