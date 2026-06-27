@@ -3,8 +3,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-  <!-- Animated Typing Header -->
   <a href="https://github.com/shayansaha85">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Shayan" alt="Typing SVG" />
   </a>
@@ -15,6 +13,7 @@
 [![X / Twitter](https://img.shields.io/badge/-shayansaha85-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/shayansaha85)
 [![Bluesky](https://img.shields.io/badge/-shayandev-3B82F6?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/shayandev.bsky.social)
 [![Reddit](https://img.shields.io/badge/-shayansaha85-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/shayansaha85)
+</div>
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                             ABOUT ME                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -78,12 +77,12 @@
 
 ## 🏅 &nbsp;Certifications
 
-<div align="center">
+<div align="">
 
   <img src="https://img.shields.io/badge/Full--Stack_Observability_Practitioner-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic FSO" />
-  &nbsp;
+  
   <img src="https://img.shields.io/badge/Chaos_Engineering_Professional-27BF6B?style=for-the-badge&logo=gremlin&logoColor=white" alt="Gremlin Pro" />
-  &nbsp;
+  
   <img src="https://img.shields.io/badge/Chaos_Engineering_Practitioner-27BF6B?style=for-the-badge&logo=gremlin&logoColor=white" alt="Gremlin Practitioner" />
 
 </div>
