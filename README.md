@@ -10,12 +10,9 @@
   </a>
 
 
-  <!-- Tagline -->
-  <samp>
-    Automating • Observing • Scaling — Distributed Systems at Scale
-  </samp>
 
-<br>
+
+<br/>
   
   <a href="https://github.com/shayansaha85?tab=followers">
     <img src="https://img.shields.io/github/followers/shayansaha85?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117&logo=github" alt="Followers" />
@@ -25,16 +22,19 @@
  
   <!-- Social Badges -->
   <a href="https://linkedin.com/in/shayansaha85">
-    <img src="https://img.shields.io/badge/-shayansaha85-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-shayansaha85-blue
+    " alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://twitter.com/shayansaha85">
-    <img src="https://img.shields.io/badge/-shayansaha85-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/X-shayansaha85-black
+    " alt="X / Twitter" />
   </a>&nbsp;
   <a href="https://bsky.app/profile/shayandev.bsky.social">
-    <img src="https://img.shields.io/badge/-shayandev-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+    <img src="https://img.shields.io/badge/BlueSky-shayandev-blue" alt="Bluesky" />
   </a>&nbsp;
   <a href="https://www.reddit.com/user/shayansaha85">
-    <img src="https://img.shields.io/badge/-shayansaha85-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+    <img src="https://img.shields.io/badge/Reddit-shayansaha85-red
+    " alt="Reddit" />
   </a>
 
 </div>
