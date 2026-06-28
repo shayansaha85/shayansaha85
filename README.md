@@ -30,7 +30,6 @@
 - 📉 &nbsp;Achieved a **93% reduction** in incident-driven disruptions through intelligent automation
 - 🛠️ &nbsp;Building robust **Python-driven automation pipelines** & CI/CD workflows
 - 🧪 &nbsp;Certified in **Chaos Engineering** (Gremlin) & **Full-Stack Observability** (New Relic)
-- 🎓 &nbsp;**B.Tech** from **NIT Agartala** *(2020)*
 - 🌱 &nbsp;Currently exploring **Go** and **Kubernetes at scale**
 - 📫 &nbsp;Reach me at **shayansaha.con@gmail.com**
 
