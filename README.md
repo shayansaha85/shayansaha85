@@ -96,14 +96,6 @@
 
 <div align="center">
 
-  <!-- Stats Card + Streak -->
-  <a href="https://github.com/shayansaha85">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shayansaha85&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Shayan's GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/shayansaha85">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayansaha85&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  </a>
 
   <br/><br/>
 
